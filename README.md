@@ -7,13 +7,15 @@ My work spans optimal transport, data matching and clustering, statistics, and a
 ### Research Interests
 
 - Optimal transport and related optimization methods
-- Data matching, clustering, and representation learning
+- Data matching and clustering methods
+- Tensor algebra and its applications in low rank and dimensionality reduction methods 
 - Statistical analysis and data science
 - Applied and theoretical machine learning
 
+
 ### Research Profile
 
-- Independent, self-directed research with validation and empirical grounding
+- Independent and initiative, conducting research with validation and empirical grounding
 - Strong mathematical foundation with practical implementation experience
 - Comfortable translating theory into working code
 
